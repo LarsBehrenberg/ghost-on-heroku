@@ -9,7 +9,6 @@
   "success_url": "/ghost",
   "addons": [
     "jawsdb",
-    "cloudinary"
   ],
   "env": {
     "APP_PUBLIC_URL": {
